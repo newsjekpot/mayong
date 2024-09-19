@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newsjekpot.github.io/mayong/sitemap.xml
